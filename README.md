@@ -6,9 +6,10 @@
 - 🎨 I see myself as someone with a creative spirit, endeavoring to craft using the tools at my disposal!
 - ⚡ Fun fact: I am a house cat, upon leaving the house you'd probably find me playing football or basketball or trying to tick something off my bucket list.
 - 🎸 Music is the rhythm of my soul: I am currently learning how to play the guitar to strum along to my favourite tunes.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/aristote_db/), LinkedIn or find me dilombaa@gmail everywhere!
+- 📫 How to reach me: [Instagram](https://www.instagram.com/aristote_db/), LinkedIn or find me dilombaa@gmail.
+  
 <!--
-**Aristote02/AristoteDilomba** is a ✨_special_✨ repository because its README.md and it appears on my github profile.
+**Aristote02/AristoteDilomba** is a ✨_special_✨ repository because its `README.md` (this file) and it appears on my github profile.
 -🔭 I’m currently working on ...
 -🌱 I’m currently learning ...
 -💬 Ask me about ...

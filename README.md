@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hi there 👋
 
 - 🚀 I'm currently building a quiz app! Exploring random question generation, scoring systems, and user performance tracking for an engaging experience. Stay tuned for updates! 😊 #QuizAppDevelopment.
 - 🧠 I'm currently learning everything about African Literature, Psychology, AI, and Finance. I am 📖reading Dopamine Nation: Finding Balance in the Age of Indulgence by Anna Lembke & ---Wahala by Nikky May and many others. Time to focus on finishing one book at a time.
